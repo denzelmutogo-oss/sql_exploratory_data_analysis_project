@@ -152,8 +152,6 @@ This project shows how structured SQL exploration:
 * Accelerates dashboard development in Tableau or Power BI
 * Helps stakeholders understand trends, coverage, and performance drivers
 
-It demonstrates not just SQL proficiency, but **analytical thinking and business awareness**.
-
 ---
 
 ## 👤 About Me
